@@ -1,3 +1,3 @@
-e202f986af101133c786beb21ece385519480938c65556829298506980771712  PetCompanion-0.8.0.0.zip
-188c021fdbeec4de1ff78bb6c98f17570962531c421fc638beacda89c6f2a15d  PetCompanion-Guide-zh-CN.pdf
-cb4842bfa30c33f2fbddc2e7d2d75dbd8dc5964449d56f3306da2dfa0a4f689a  PetCompanion-Guide-zh-CN.docx
+b9ff45820b11db97f7b184020d1990332c373400e92d62d9a7e514e2ff3fa030  PetCompanion-0.8.1.0.zip
+0eb0fc4315ab926cdb3b07b2910df00f0cfde3c9a3a1fff1da2e2c2d58ffccf6  PetCompanion-Guide-zh-CN.pdf
+072abecc37ee9bdfa98dfa7031a782937664a6a408a4d4a9c8b33a5dd0cefa4a  PetCompanion-Guide-zh-CN.docx
